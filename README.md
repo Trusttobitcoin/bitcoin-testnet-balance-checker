@@ -27,7 +27,7 @@ Follow the instructions in the above repository to generate your encrypted walle
 
 3. Run the script:
    ```
-   python bitcoin_testnet_balance_checker.py
+   python BalanceChecker.py
    ```
 
 4. Follow the prompts to load your wallet and check balances.
